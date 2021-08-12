@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628579318 source:c:\users\tsoms\documents\code blocks\mp_student management\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+
