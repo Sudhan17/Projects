@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1628580785 source:c:\users\tsoms\documents\code blocks\mp_keylogger\main.cpp
-	<iostream>
-	<Windows.h>
-	<Winuser.h>
-	<fstream>
-
